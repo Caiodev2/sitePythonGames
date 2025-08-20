@@ -111,3 +111,11 @@ header .mobile-menu ul > li > a {
 header .mobile-menu ul > li a:hover {
   color:  var( --color-yellow-400);
 }
+@media (min-width: 992px) {
+
+ /*
+  Responsividade para telas maiores.
+  Adicionar estilos para tablets e desktops a partir de 992px.
+*/
+
+}
