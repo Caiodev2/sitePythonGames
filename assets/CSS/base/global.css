@@ -1,3 +1,11 @@
+:root {
+  --color-gray-500: #808080;
+  --color-yellow-400: #FFDE58;
+  --color-black-900: #0D1117;
+  --color-black: #000000;
+  --color-white: #FFFFFF;
+}
+
 * {
   padding: 0;
   margin: 0;
